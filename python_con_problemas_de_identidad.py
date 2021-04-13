@@ -1,2 +1,5 @@
-print("Tengo problemas de identidad")
-print("No se cual es mi orientacion como archivo")
+x = int(1)
+y = int(111111111111111)
+while 1 == 1:
+    print(x*y)
+    x +=1
