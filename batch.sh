@@ -1,3 +1,2 @@
 #! /bin/bash
-neofetch
-./batch.sh 
+utils.py
