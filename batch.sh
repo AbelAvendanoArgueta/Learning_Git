@@ -1,5 +1,3 @@
 #! /bin/bash
 echo "hola"
-neofetch
-neofetch
-utils.py
+echo "esto paso en master"
