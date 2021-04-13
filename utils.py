@@ -1,3 +1,5 @@
 print("esto es un bucle")
 print("no tengo una orientacion como archivo")
 print("es la razon por la que soy un bucle o algo asi")
+print("Tengo problemas de identidad")
+print("No se cual es mi orientacion como archivo")
